@@ -1,8 +1,8 @@
 ---
 path: '/md-posts/drittes-post'
-title: 'Second Blog Post'
+title: 'drittes dffdf'
 date:   '2017-10-05'
-author: 'Mike Polinowski'
+author: 'thomas kamsker'
 chapter: 'Markdown Posts'
 ---
 
