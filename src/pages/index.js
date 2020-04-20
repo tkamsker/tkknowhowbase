@@ -11,7 +11,7 @@ const IndexPage = ({data}) => (
     <SEO title="Home" />
     <Counter header="This is the Index Counter" />
     <h1>Hi people</h1>
-    
+
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
 
